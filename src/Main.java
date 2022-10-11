@@ -38,7 +38,7 @@ public class Main {
         for (int c=0;c<arrayInt.length;c++)
             System.out.println(arrayInt[c]+=arrayInt[c]%2==1?1:0);
 
-
+        //Извините, сделал разом
 
     }
 }
